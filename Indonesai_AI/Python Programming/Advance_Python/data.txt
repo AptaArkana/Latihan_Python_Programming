@@ -1,0 +1,4 @@
+# Ini adalah file data.txt
+# Pada file ini memuat beberapa informasi tentang data
+# Data ini akan diproses menggunakan python
+# Bahasa Pemrograman Python memiliki masa depan yang cerah
