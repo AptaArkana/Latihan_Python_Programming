@@ -7,3 +7,14 @@
   <li>OOP</li>
   <li>Final Test</li>
 </ol>  
+
+<h3>Pengenalan Python</h3>
+<p align="justify">Pengenalan python akan mempelajari tentang :</p>
+<ol type="1">
+  <li>Apa itu Python</li>
+  <li>Mengapa Python</li>
+  <li>Python vs Lainnya</li>
+  <li>IDE</li>
+  <li>Library & PIP</li>
+</ol>
+
